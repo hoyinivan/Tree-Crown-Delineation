@@ -1,6 +1,6 @@
 ### R code used in the following publication
 
-**Kwong, I. H. Y., & Fung, T. (2020). Tree height mapping and crown delineation using LiDAR, large format aerial photographs, and unmanned aerial vehicle photogrammetry in subtropical urban forest. *International Journal of Remote Sensing, 41*(14), 5228–5256.**<br>(https://www.tandfonline.com/doi/full/10.1080/01431161.2020.1731002)
+**Kwong, I. H. Y., & Fung, T. (2020). Tree height mapping and crown delineation using LiDAR, large format aerial photographs, and unmanned aerial vehicle photogrammetry in subtropical urban forest. *International Journal of Remote Sensing, 41*(14), 5228–5256. doi: 10.1080/01431161.2020.1731002**<br>(https://www.tandfonline.com/doi/full/10.1080/01431161.2020.1731002)
 
 If the code helps you, please consider citing the above article.
 
